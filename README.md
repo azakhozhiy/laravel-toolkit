@@ -1,1 +1,5 @@
-# wector975/laravel-core-utils
+# Laravel Toolkit
+
+## License
+
+This library is licensed under the [MIT License](./LICENSE).
